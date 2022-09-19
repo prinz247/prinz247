@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prinz247
-- 👀 I’m interested in startups, software, law
+- 👋 Hi, I’m @prince
+- 👀 I’m interested in startups, software, 
 - 🌱 I’m currently learning HTML5/CSS/JS
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me prinze247@gmail.com
